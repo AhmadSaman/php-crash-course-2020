@@ -1,0 +1,17 @@
+{
+    "name": "ahmad/15_autoloading",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmad Saman Abdulhadi",
+            "email": "ahmad.00079821@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
